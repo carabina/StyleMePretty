@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'StyleMePretty'
-  s.version = '0.1'
+  s.version = '0.1.1'
   s.license = 'MIT'
   s.summary = 'Set style with a single line of code to create beautiful applications.'
   s.homepage = 'https://github.com/Dedecube/StyleMePretty'
