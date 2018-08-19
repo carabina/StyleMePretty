@@ -30,6 +30,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor(hexString: "000000")
+        Test().hello()
     }
 
     override func didReceiveMemoryWarning() {

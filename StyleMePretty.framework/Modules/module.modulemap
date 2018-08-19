@@ -1,0 +1,11 @@
+framework module StyleMePretty {
+  umbrella header "StyleMePretty.h"
+
+  export *
+  module * { export * }
+}
+
+module StyleMePretty.Swift {
+    header "StyleMePretty-Swift.h"
+    requires objc
+}
